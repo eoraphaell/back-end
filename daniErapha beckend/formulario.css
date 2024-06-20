@@ -1,0 +1,12 @@
+body{
+    background-color: black;
+    text-align: center;
+    text-transform: capitalize;
+    
+}
+#card{
+    background-color: pink;
+    width: 20%;
+    margin-left: 750px;
+    margin-top: 200px;
+}
